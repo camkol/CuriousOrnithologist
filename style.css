@@ -275,14 +275,14 @@ img {
 }
 
 @supports (display: grid) {
-  @media screen and (min-width: 400px) {
+  @media screen and (min-width: 320px) {
     .card {
       margin: 0px;
     }
 
     .grid-wrapper {
-      grid-template-columns: 1fr 1fr;
-      grid-template-rows: 2fr 2fr 3fr 2fr 2fr 2fr;
+      grid-template-columns: 1fr;
+      grid-template-rows: 2fr 2fr 3fr 2fr 2fr 2fr 2fr;
       display: grid;
       height: 100em;
       justify-content: center;

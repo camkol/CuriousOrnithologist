@@ -7,3 +7,5 @@
 3. JavaScript
 
 ## Notes
+
+-Improved responsive design
