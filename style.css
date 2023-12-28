@@ -223,7 +223,7 @@ img {
 }
 
 .header {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird1.jpg");
+  background-image: url("images/bird1.jpg");
 }
 
 .subhead-1 {
@@ -237,11 +237,11 @@ img {
 }
 
 .subhead-2 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird3.jpg");
+  background-image: url("images/bird3.jpg");
 }
 
 .block-1 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird4.jpg");
+  background-image: url("images/bird4.jpg");
 }
 
 .block-1:hover {
@@ -251,27 +251,27 @@ img {
 }
 
 .block-2 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird5.jpg");
+  background-image: url("images/bird5.jpg");
 }
 
 .block-3 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird6.jpg");
+  background-image: url("images/bird6.jpg");
 }
 
 .block-4 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird7.jpg");
+  background-image: url("images/bird7.jpg");
 }
 
 .block-5 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird8.jpg");
+  background-image: url("images/bird8.jpg");
 }
 
 .block-6 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird9.jpg");
+  background-image: url("images/bird9.jpg");
 }
 
 .block-7 {
-  background-image: url("https://static-assets.codecademy.com/Courses/Learn-CSS/Projects/bird10.jpg");
+  background-image: url("images/bird10.jpg");
 }
 
 @supports (display: grid) {

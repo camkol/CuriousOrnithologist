@@ -9,3 +9,4 @@
 ## Notes
 
 -Improved responsive design
+-Worked on image and made self-sufficient
